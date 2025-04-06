@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.18.0"
+  }
+}
